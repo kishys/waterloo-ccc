@@ -2,7 +2,6 @@
 # CCC - '21 J1: Boiling Water
 
 a = int(input(""))
-
 pressure = 5 * a - 400
 
 print(pressure)
