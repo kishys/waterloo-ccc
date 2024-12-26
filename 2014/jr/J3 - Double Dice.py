@@ -2,7 +2,6 @@
 # CCC - '14 J3: Double Dice
 
 rounds = int(input(""))
-
 p1 = 100
 p2 = 100
 
